@@ -1,39 +1,33 @@
-Hi 👋 My name is Amish Verma
+Hi  My name is Amish Verma
 ============================
 
-Front End Developer
--------------------
 
-* 🌍  I'm based in India
-* 🧠  I'm learning React
-* ⚡  My hobbies are photography, learning new technologies and exploring different places.
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"
-</p>
+* 🌍  I'm based in India
+* 🧠  I'm currently learning React
+* ⚡  My hobbies are photography, learning new technologies and exploring different places.
 
 
-### Socials
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amishverma&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
 
-<p align="left"> <a href="https://www.github.com/amishverma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amishverma&theme=dracula&hide_border=false)
 
-### Badges
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amishverma&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<b>My GitHub Stats</b>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<a href="http://www.github.com/amishverma"><img src="https://github-readme-stats.vercel.app/api?username=amishverma&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="amishverma's GitHub stats" /></a>
+---
+[![](https://visitcount.itsvg.in/api?id=amishverma&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<a href="https://github.com/amishverma" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amishverma&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+# Top Repositories
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amishverma&repo=MNTN-website&theme=radical)](https://github.com/amishverma/MNTN-website)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amishverma&repo=Budget-Expenser&theme=radical)](https://github.com/amishverma/Budget-Expenser)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amishverma&repo=Homesmart&theme=radical)](https://github.com/amishverma/Homesmart)
