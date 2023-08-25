@@ -2,7 +2,7 @@ Hi  My name is Amish Verma
 ============================
 
 
-* 🌍  I'm based in India
+* 🌍  I'm currently  based in New Zealand.
 * 🧠  I'm currently learning React
 * ⚡  My hobbies are photography, learning new technologies and exploring different places.
 
